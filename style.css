@@ -1,0 +1,135 @@
+
+*{
+    padding: 0px;
+    margin: 5px;
+}
+
+nav span{
+
+    content: "";
+    /* color: red; */
+    display: flex;
+    width: 10px;
+    margin: 2px;
+    padding: 1.5px 10px;
+    margin-top: 4px;
+        
+    background-color: grey;
+    
+}
+
+nav{
+    margin-top: 10px;
+    display: flex;
+
+}
+
+nav .container{
+    position: absolute;
+    right: 20px;
+
+}
+
+h1{
+    color: indigo;
+}
+
+.row1 span{
+    content: "";
+    /* color: red; */
+    display: flex;
+    width: 10px;
+    margin: 2px;
+    padding: 1.5px 10px;
+    margin-top: 4px;
+        
+    background-color: grey;
+    
+}
+
+.btn{
+    padding: 2px;
+    font-size: 11px;
+}
+
+.con1{
+display: flex;    
+}
+.row1{
+    display: flex;
+    width: 100%;
+}
+
+.rightsideicons{
+    position: absolute;
+    right: 2px;
+    
+}
+
+.shadowbox{
+
+    content: "";
+    /* border: 2px solid red; */
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    margin: auto;
+    background: rgb(240, 235, 235);
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.shadowbox>h2{
+    color: grey;
+    
+    text-align: center;
+    
+}
+
+.boxes{
+
+    margin-top: 5px;
+    display: inline;
+    margin: auto;
+
+    
+    
+
+}
+
+.boxitems{
+    content: "";
+    height: 100px;
+    width: 20%;
+    /* border: 2px solid red; */
+    display: inline-block;
+    background-color: rgb(241, 237, 237);
+    
+    
+    
+}
+
+.container2{
+    margin: 0px;
+    /* border: 2px solid green; */
+   padding-left: 60px;
+   padding-right: 60px;
+   width:100%;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.label2{
+    margin-left: 10px;
+}
+
+
